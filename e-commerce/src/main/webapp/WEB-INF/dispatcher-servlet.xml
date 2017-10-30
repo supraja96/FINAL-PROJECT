@@ -27,8 +27,8 @@ http://www.springframework.org/schema/context/spring-context-3.0.xsd">
 	<bean id="mailSender" class="org.springframework.mail.javamail.JavaMailSenderImpl">
 		<property name="host" value="smtp.gmail.com" />
 		<property name="port" value="587" />
-		<property name="username" value="jidhin.shaji@gmail.com" />
-		<property name="password" value="jithin123." />
+		<property name="username" value="suprajaelavarthi@gmail.com" />
+		<property name="password" value="supraja96" />
  
 		<!-- The name of the property, following JavaBean naming conventions -->
 		<property name="javaMailProperties">
